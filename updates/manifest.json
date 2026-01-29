@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
-  "notes": "首发版本",
-  "download_url": "https://github.com/meizj666/anime-bg-remover-updates/releases/download/v2.0.0/-2.0.0-update.zip",
-  "sha256": "91b02cd5640a899b85a8b13ea1d29e14bf4c23d1ffa37f059c8e089a96399075",
-  "size": 125002396,
+  "version": "2.0.1",
+  "notes": "第一次推送更新",
+  "download_url": "https://github.com/meizj666/anime-bg-remover-updates/releases/download/v2.0.1/-2.0.1-update.zip",
+  "sha256": "35f24b47476a9ec81dd78dc5105cd6c6fd0535e5009e8a5f0681cf4a55ac9679",
+  "size": 125002398,
   "pub_date": "2026-01-29",
-  "artifact": "梅子工具箱-2.0.0-update.zip"
+  "artifact": "梅子工具箱-2.0.1-update.zip"
 }
