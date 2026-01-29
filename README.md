@@ -1,0 +1,1 @@
+# anime-bg-remover-updates
