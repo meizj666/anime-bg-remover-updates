@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "notes": "优化参考图顺序",
-  "download_url": "https://github.com/meizj666/anime-bg-remover-updates/releases/download/v1.0.5/-1.0.5-update.zip",
-  "sha256": "ba218c242946c83bec4f7116a2a56d266d1f77e2b56645f7d381fd1e809db366",
-  "size": 5841684,
-  "pub_date": "2026-02-02",
-  "artifact": "梅子工具箱-1.0.5-update.zip"
+  "version": "1.0.6",
+  "notes": "1.AI生图新增批量生图功能\n2.AI生图新增自动保存功能\n3.自动更新改为gitee仓库（以后更新无需代理）",
+  "download_url": "https://gitee.com/meizijiu666/anime-bg-remover-updates/releases/download/v1.0.6/梅子工具箱-1.0.6-update.zip",
+  "sha256": "546c04324cc3eb47be32a044f437e1ad5d926e7d20a33556d0137e3cdc082baa",
+  "size": 5851559,
+  "pub_date": "2026-02-08",
+  "artifact": "梅子工具箱-1.0.6-update.zip"
 }
